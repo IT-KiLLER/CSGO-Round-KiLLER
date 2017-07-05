@@ -2,7 +2,7 @@
 Command to end round. !endround !endwarmup
 
 ## Commands (**_ADMFLAG_GENERIC_**):
-  - !endround <CT/T>
+  - !endround `<CT/T>`
   - !endround
   - !endwarmup
 ## Cvars
